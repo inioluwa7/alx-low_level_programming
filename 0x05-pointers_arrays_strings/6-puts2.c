@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
+ *puts2 - prints
+ *@str: a pointer
  *
- *
- *
- *Return: void
+ *Return: void means correct
  */
 
 void puts2(char *str)
