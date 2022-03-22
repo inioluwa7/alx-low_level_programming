@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *main
- *
+ *puts_half - prints every other char of a str
+ *@str: Apointer to an int that will be changed
  *
  *Return: void
  */
