@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_strcat - concatenates
+ *_strncat - concatenates
  *@dest: A pointer to a character
  *@src: A pointer to a char
  *@n: value
