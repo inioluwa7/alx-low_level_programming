@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_strcmp - 
+ *_strcmp - compares two strings
  *@s1: a pointer
  *@s2: a pointer
  *Return: dest
