@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main - program to print in all cases then new line
- *
- * Return: return 0
- */
+*main - Program to print alphabet letters in all cases followed by new line
+*
+*Return: return 0
+*/
 int main(void)
 {
 	int letter;
@@ -13,7 +13,7 @@ int main(void)
 	{
 		letter = tolower(letter);
 		putchar(letter);
-		if(letter == 'z')
+		if (letter == 'z')
 		{
 			letter = 'A';
 			for (; letter <= 'Z'; letter++)
