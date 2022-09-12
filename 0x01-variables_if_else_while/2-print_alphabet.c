@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main - program to print alphabet letter followed by a new line
- *
- * Return: return 0
- */
+*main - program to print alphabet letter followed by a new line
+*
+*Return: return 0
+*/
 int main(void)
 { 
 	int letter;
